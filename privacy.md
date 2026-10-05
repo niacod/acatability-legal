@@ -4,15 +4,16 @@ title: Privacy Policy
 
 # Acatability Privacy Policy
 
-_Last updated: 29 September 2026_
+_Last updated: 5 October 2026_
 
 Acatability is a journaling app you share with one partner. It is made and
-run by an independent developer in the United Kingdom ("we", "us"). This
+run by Qurek Limited, a company registered in England and Wales ("we",
+"us"). This
 page explains what the app stores, where it's kept, who can see it, and how
 to delete it.
 
 If you have a question, or want to use any of the rights below, email
-**info@qurek.com**.
+**info@qurek.biz**.
 
 ## The short version
 
@@ -77,7 +78,7 @@ anyone else, unless the law requires us to.
 - **Your journal text is never shared** with your partner or with anyone
   else. The database keeps it apart from the shared data, and nothing ever
   copies it across.
-- **We** (the developer) can technically reach the database to run and fix
+- **We** (Qurek Limited) can technically reach the database to run and fix
   the service. We don't read your entries.
 
 If you turn sharing off for an entry, or delete it, your partner stops
@@ -104,14 +105,14 @@ permanently deletes:
 It can't be undone. Copies in our database provider's backups are replaced
 automatically within 30 days.
 
-You can also email **info@qurek.com** and ask us to delete your account
+You can also email **info@qurek.biz** and ask us to delete your account
 for you.
 
 ## Your rights
 
 Under UK data protection law (UK GDPR), you have the right to ask for a
 copy of your data, to correct it, to delete it, to restrict or object to
-how we use it, and to take it elsewhere. Email **info@qurek.com** and we
+how we use it, and to take it elsewhere. Email **info@qurek.biz** and we
 will answer within one month.
 
 We rely on **performing our contract with you** (providing the app you

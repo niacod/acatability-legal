@@ -4,11 +4,11 @@ title: Terms of Use
 
 # Acatability Terms of Use
 
-_Last updated: 29 September 2026_
+_Last updated: 5 October 2026_
 
-These terms are an agreement between you and the independent developer
-who makes Acatability ("we", "us"). By using the app, you agree to them.
-Questions go to **info@qurek.com**.
+These terms are an agreement between you and Qurek Limited, a company
+registered in England and Wales, which makes Acatability ("we", "us"). By using the app, you agree to them.
+Questions go to **info@qurek.biz**.
 
 Apple's standard
 [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
