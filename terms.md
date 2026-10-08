@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Acatability Terms of Use
 
-_Last updated: 6 October 2026_
+_Last updated: 8 October 2026_
 
 These terms are an agreement between you and Qurek Limited, a company
 registered in England and Wales, which makes Acatability ("we", "us"). By using the app, you agree to them.
@@ -93,8 +93,8 @@ never need to pay to keep a journal.
 - For a limited period after launch we also sell the **Founding Pact**:
   one payment, **no renewal**. It gives the same pact of up to 5 for as
   long as Acatability is offered.
-- It's sold only for a limited time and in limited numbers. Once it's no
-  longer on sale, people who bought it keep it.
+- It's on sale only until 31 December 2026. Once it's no longer on sale,
+  people who bought it keep it.
 - If you buy it while you also have a subscription, the subscription keeps
   renewing until you cancel it in Settings as above. We can't cancel it
   for you.
