@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Acatability Privacy Policy
 
-_Last updated: 7 October 2026_
+_Last updated: 12 October 2026_
 
 Acatability is a journaling app you can keep on your own or share in a
 pact with up to four friends. It is made and
@@ -26,7 +26,8 @@ If you have a question, or want to use any of the rights below, email
 - If you pay, we keep a record of your purchase that we get from Apple.
   Nobody else in your pact sees it.
 - Notifications are off until you say yes. If you do, a friend's
-  notification only ever says that you checked in, never what you wrote.
+  notification only ever says that you checked in, with your name and
+  your cat's name, never what you wrote.
 - You can delete your account and everything in it from inside the app, at
   any time.
 
@@ -43,6 +44,7 @@ If you have a question, or want to use any of the rights below, email
 | **Purchase history** | If you buy a subscription or the Founding Pact: the purchase's transaction ID, its type (monthly, yearly or Founding Pact), its status (for example active, expired or refunded), when it expires or was refunded, and whether it was a test purchase. We get this from Apple, never from your card. | To know whether your pact's shared features are on, and how many people you can invite |
 | **Push token** | If you allow notifications: a code Apple gives your phone so we can send it a notification, and whether it's a test build | To tell you when a friend in your pact checks in |
 | **Friend notification settings and record** | Whether "When a friend checks in" is on, and on which days you sent or were sent a friend notification | So you can turn them off, and so nobody gets more than one a day |
+| **Pact news record** | When someone leaves your pact or is removed from it: who it was (their name at the time), who did it, who in the pact was told, and when | So the others hear once that someone left, and nobody is told twice |
 | **Apple sign-in token** | A token from Apple, kept only on our server and never readable by the app | So we can cancel your Sign in with Apple link when you delete your account, as Apple requires |
 
 We use all of this only to run the app. None of it is used for tracking or
@@ -78,8 +80,10 @@ subscription renews, ends or is refunded.
 
 If you allow notifications, friend notifications are delivered by
 **Apple** (Apple Push Notification service). Apple receives your phone's
-push token and the notification's words: your cat's name and your
-friend's name. Daily reminders never leave your phone.
+push token and the notification's words: the name of the friend who
+checked in and the name of that friend's cat. When you check in, the same
+goes for your name and your cat's name. Daily reminders never leave your
+phone.
 
 Supabase, Apple and (if you sign in with Google) Google process data for us. We don't share your data with
 anyone else, unless the law requires us to.
@@ -91,6 +95,7 @@ anyone else, unless the law requires us to.
   only to you.
 - **Everyone else in your pact** (up to four people) can see:
   - your name and your cat's colour;
+  - your cat's name, in a friend notification when you check in;
   - whether you checked in on a given day, and the pact's "days
     together";
   - your gratitude items for a day, **only** if you turned sharing on for
@@ -116,12 +121,17 @@ anyone else, unless the law requires us to.
   the service. We don't read your entries.
 
 **Friend notifications.** When you check in, others in your pact who
-allowed notifications may get one saying so, for example "Meow! Maya just
-checked in. Want to join?". That's the one way someone can learn you've
-checked in before they have themselves. It names you and nothing else:
-never your journal text, gratitude items, minutes or anything you shared.
+allowed notifications may get one saying so, for example "Maya checked
+in" and "Meow! Mochi is purring next to Maya. Want to join?". That's the
+one way someone can learn you've checked in before they have themselves.
+It names you and your cat and nothing else: never your journal text,
+gratitude items, minutes or anything you shared.
 Nobody gets one before 8am or after 9pm in their own time zone, or more
 than once a day, or after they've checked in themselves.
+
+If you leave a pact, or the person who pays removes you, the others who
+allow friend notifications get one quiet line saying so, for example
+"Meow! Maya left the pact." It says nothing else about you.
 
 If you turn sharing off for an entry, or delete it, the others stop
 seeing it. If you leave a pact, or the person who pays removes you, the
@@ -149,7 +159,8 @@ invite codes expire after 7 days. A push token is deleted when you sign
 out, when someone else signs in on that phone, or when Apple tells us
 it no longer works (for example after you delete the app). Purchase records are kept for as long as
 your account exists, because a subscription or Founding Pact can still
-count after a long gap.
+count after a long gap. A pact news record is deleted 30 days after
+someone leaves.
 
 ## Deleting your account
 
@@ -168,6 +179,10 @@ permanently deletes:
   cancel that in iPhone Settings);
 - the Apple sign-in token, after we ask Apple to cancel the link to your
   Apple ID.
+
+If you left a pact or were removed from one in the 30 days before, the
+record that the others were told (with your name as it was) stays until
+those 30 days are up.
 
 It can't be undone. Copies in our database provider's backups are replaced
 automatically within 30 days.
