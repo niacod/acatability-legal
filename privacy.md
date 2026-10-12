@@ -45,6 +45,7 @@ If you have a question, or want to use any of the rights below, email
 | **Push token** | If you allow notifications: a code Apple gives your phone so we can send it a notification, and whether it's a test build | To tell you when a friend in your pact checks in |
 | **Friend notification settings and record** | Whether "When a friend checks in" is on, and on which days you sent or were sent a friend notification | So you can turn them off, and so nobody gets more than one a day |
 | **Friend nudges you sent** | When you nudge a friend in your pact yourself: who you nudged and on which day | So you can nudge each friend at most once a day |
+| **Paws you sent and received** | When someone in your pact sends a paw: who sent it, who got it, and on which day | To show you today's paws, and so each friend can send you at most one a day |
 | **Pact news record** | When someone leaves your pact or is removed from it: who it was (their name at the time), who did it, who in the pact was told, and when | So the others hear once that someone left, and nobody is told twice |
 | **Apple sign-in token** | A token from Apple, kept only on our server and never readable by the app | So we can cancel your Sign in with Apple link when you delete your account, as Apple requires |
 
@@ -103,8 +104,8 @@ anyone else, unless the law requires us to.
   only to you.
 - **Everyone else in your pact** (up to four people) can see:
   - your name and your cat's colour;
-  - your cat's name, in a friend notification when you check in or
-    nudge someone;
+  - your cat's name, in a friend notification when you check in, nudge
+    someone or send them a paw;
   - whether you checked in on a given day, and the pact's "days
     together";
   - the time you first checked in today, for example "Checked in 12 min
@@ -151,7 +152,7 @@ others stop seeing everything you had shared with it.
 
 ## Notifications
 
-Acatability doesn't send notifications until you say yes. There are three
+Acatability doesn't send notifications until you say yes. There are four
 kinds:
 
 - **Daily reminders from your cat.** Your phone schedules these itself,
@@ -165,6 +166,10 @@ kinds:
   cat and nothing else. It follows the same switch and the same 8am to 9pm hours
   as friend notifications. The person who nudged you isn't told whether
   it reached you.
+- **Paws from a friend.** Once you've both checked in, someone in your
+  pact can send you a paw, at most once a day, for example "Maya sent a
+  paw". It names the friend and the friend's cat and nothing else, follows
+  the same switch and hours, and is also shown on your Pact tab that day.
 
 Turn any of them off in the app under **Settings → Reminders**, or turn all of
 them off in **iPhone Settings → Notifications → Acatability**. None of
@@ -193,6 +198,7 @@ permanently deletes:
   pauses until someone else in it subscribes;
 - your invite codes;
 - your push tokens and friend notification record;
+- the paws you sent and received;
 - your purchase records (this doesn't cancel an Apple subscription;
   cancel that in iPhone Settings);
 - the Apple sign-in token, after we ask Apple to cancel the link to your
