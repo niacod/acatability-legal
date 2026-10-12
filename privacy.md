@@ -44,6 +44,7 @@ If you have a question, or want to use any of the rights below, email
 | **Purchase history** | If you buy a subscription or the Founding Pact: the purchase's transaction ID, its type (monthly, yearly or Founding Pact), its status (for example active, expired or refunded), when it expires or was refunded, and whether it was a test purchase. We get this from Apple, never from your card. | To know whether your pact's shared features are on, and how many people you can invite |
 | **Push token** | If you allow notifications: a code Apple gives your phone so we can send it a notification, and whether it's a test build | To tell you when a friend in your pact checks in |
 | **Friend notification settings and record** | Whether "When a friend checks in" is on, and on which days you sent or were sent a friend notification | So you can turn them off, and so nobody gets more than one a day |
+| **Friend nudges you sent** | When you nudge a friend in your pact yourself: who you nudged and on which day | So you can nudge each friend at most once a day |
 | **Pact news record** | When someone leaves your pact or is removed from it: who it was (their name at the time), who did it, who in the pact was told, and when | So the others hear once that someone left, and nobody is told twice |
 | **Apple sign-in token** | A token from Apple, kept only on our server and never readable by the app | So we can cancel your Sign in with Apple link when you delete your account, as Apple requires |
 
@@ -95,7 +96,8 @@ anyone else, unless the law requires us to.
   only to you.
 - **Everyone else in your pact** (up to four people) can see:
   - your name and your cat's colour;
-  - your cat's name, in a friend notification when you check in;
+  - your cat's name, in a friend notification when you check in or
+    nudge someone;
   - whether you checked in on a given day, and the pact's "days
     together";
   - your gratitude items for a day, **only** if you turned sharing on for
@@ -139,7 +141,7 @@ others stop seeing everything you had shared with it.
 
 ## Notifications
 
-Acatability doesn't send notifications until you say yes. There are two
+Acatability doesn't send notifications until you say yes. There are three
 kinds:
 
 - **Daily reminders from your cat.** Your phone schedules these itself,
@@ -147,10 +149,16 @@ kinds:
   a while. Nothing about them is sent to us.
 - **Friend notifications**, when someone in your pact checks in (see
   "Who can see what" above).
+- **Nudges from a friend.** Someone in your pact who has checked in can
+  nudge you, at most once a day, while you haven't checked in yet, for
+  example "Maya is thinking of you". It names the friend and the friend's
+  cat and nothing else. It follows the same switch and the same 8am to 9pm hours
+  as friend notifications. The person who nudged you isn't told whether
+  it reached you.
 
-Turn either off in the app under **Settings → Reminders**, or turn all of
-them off in **iPhone Settings → Notifications → Acatability**. Neither
-kind is used for marketing.
+Turn any of them off in the app under **Settings → Reminders**, or turn all of
+them off in **iPhone Settings → Notifications → Acatability**. None of
+them is used for marketing.
 
 ## How long we keep it
 
