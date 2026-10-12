@@ -107,6 +107,9 @@ anyone else, unless the law requires us to.
     nudge someone;
   - whether you checked in on a given day, and the pact's "days
     together";
+  - the time you first checked in today, for example "Checked in 12 min
+    ago". It's when your entry first reached our server; editing it later
+    doesn't change it. Only today's time is shown, never earlier days;
   - your gratitude items for a day, **only** if you turned sharing on for
     that entry;
   - your journal and meditation minutes for a day, **only** if you turned
