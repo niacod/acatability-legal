@@ -61,7 +61,14 @@ uploaded. Your login session is stored in the iOS Keychain. Your
 reminder settings (on or off, and what time) and the reminders your cat
 has scheduled are kept only on your phone. So are whether memories are
 on, which recaps you've opened, and what your cat has already said to
-you. We never see them.
+you, and your last check-in's sharing choices and minutes, so the next
+one can start from them. We never see them.
+
+If you add the Acatability widget to your home screen, it shows your
+cat, your cat's name and whether you've checked in today. The app hands
+it these from your phone's own storage; nothing is sent anywhere for it.
+Anyone who can see your home screen can see the widget, so remove it if
+you'd rather keep your cat's name to yourself.
 
 ## Where it's stored
 
