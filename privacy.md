@@ -46,6 +46,7 @@ If you have a question, or want to use any of the rights below, email
 | **Friend notification settings and record** | Whether "When a friend checks in" is on, and on which days you sent or were sent a friend notification | So you can turn them off, and so nobody gets more than one a day |
 | **Friend nudges you sent** | When you nudge a friend in your pact yourself: who you nudged and on which day | So you can nudge each friend at most once a day |
 | **Paws you sent and received** | When someone in your pact sends a paw: who sent it, who got it, and on which day | To show you today's paws, and so each friend can send you at most one a day |
+| **Together days** | The days your pact's day counted while you were in it. Only yours: it doesn't say who else checked in, or who didn't | So your together gifts stay on your shelf, even after you or a friend leave the pact. Deleted with your account |
 | **Pact news record** | When someone leaves your pact or is removed from it: who it was (their name at the time), who did it, who in the pact was told, and when | So the others hear once that someone left, and nobody is told twice |
 | **Apple sign-in token** | A token from Apple, kept only on our server and never readable by the app | So we can cancel your Sign in with Apple link when you delete your account, as Apple requires |
 
