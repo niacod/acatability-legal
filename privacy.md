@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Acatability Privacy Policy
 
-_Last updated: 12 October 2026_
+_Last updated: 15 October 2026_
 
 Acatability is a journaling app you can keep on your own or share in a
 pact with up to four friends. It is made and
@@ -38,13 +38,13 @@ If you have a question, or want to use any of the rights below, email
 | **Name** | The name Apple or Google gives us when you sign in. If you sign in with Apple and don't share it, we don't have it. | So the others in your pact know who you are |
 | **Email address** | The email Apple or Google gives us. If you sign in with Apple and choose "Hide My Email", this is a private relay address from Apple, not your real one. | Your account login |
 | **User ID** | A random ID that we create for your account, plus the ID that Sign in with Apple or Google uses | To tell your data apart from everyone else's |
-| **Journal entries** | For each day: your journal text, your gratitude items, journal and meditation minutes, and your sharing choices for that day | This is the app |
+| **Journal entries** | For each day: your journal text, your intention for the day, which of the cat's journal questions you answered, if you chose one, your gratitude items, journal and meditation minutes, and your sharing choices for that day | This is the app |
 | **Settings** | Cat colour, journaling goal, sharing preference, preferred journaling time, and your device's time zone | To set up the app for you and to know when your day starts and ends |
 | **Pact membership** | Which pact you're in, who set it up, when you joined, and any invite codes you create or use | To connect you with the others in your pact, and to know who can invite |
 | **Purchase history** | If you buy a subscription or the Founding Pact: the purchase's transaction ID, its type (monthly, yearly or Founding Pact), its status (for example active, expired or refunded), when it expires or was refunded, and whether it was a test purchase. We get this from Apple, never from your card. | To know whether your pact's shared features are on, and how many people you can invite |
-| **Push token** | If you allow notifications: a code Apple gives your phone so we can send it a notification, and whether it's a test build | To tell you when a friend in your pact checks in |
+| **Push token** | If you allow notifications: a code Apple gives your device so we can send it a notification, and whether it's a test build | To tell you when a friend in your pact checks in |
 | **Friend notification settings and record** | Whether "When a friend checks in" is on, and on which days you sent or were sent a friend notification | So you can turn them off, and so nobody gets more than one a day |
-| **Friend nudges you sent** | When you nudge a friend in your pact yourself: who you nudged and on which day | So you can nudge each friend at most once a day |
+| **Friend nudges you sent** | When you nudge a friend in your pact yourself: who you nudged and on which day | So you can nudge each friend at most once a day. If the friend then checks in, your cat tells you, and theirs tells them you nudged (that day only) |
 | **Paws you sent and received** | When someone in your pact sends a paw: who sent it, who got it, and on which day | To show you today's paws, and so each friend can send you at most one a day |
 | **Together days** | The days your pact's day counted while you were in it. Only yours: it doesn't say who else checked in, or who didn't | So your together gifts stay on your shelf, even after you or a friend leave the pact. Deleted with your account |
 | **Pact news record** | When someone leaves your pact or is removed from it: who it was (their name at the time), who did it, who in the pact was told, and when | So the others hear once that someone left, and nobody is told twice |
@@ -56,15 +56,17 @@ advertising, sold, or shared with data brokers.
 Your data is linked to your account, because a journal that isn't linked
 to you would be of no use to you.
 
-## What stays on your phone
+## What stays on your phone or iPad
 
-Drafts you haven't saved yet are kept only on your phone until they're
+Drafts you haven't saved yet are kept only on your device until they're
 uploaded. Your login session is stored in the iOS Keychain. Your
 reminder settings (on or off, and what time) and the reminders your cat
-has scheduled are kept only on your phone. So are whether memories are
+has scheduled are kept only on your device. So are whether memories are
 on, which recaps you've opened, and what your cat has already said to
 you, and your last check-in's sharing choices and minutes, so the next
-one can start from them. We never see them.
+one can start from them. The times you checked in over the last two
+weeks stay on your device too, so your cat can offer to move its hello
+closer to when you usually come. We never see them.
 
 If you add the Acatability widget to your home screen, it shows your
 cat, your cat's name and whether you've checked in today. The app hands
@@ -114,14 +116,20 @@ anyone else, unless the law requires us to.
     doesn't change it. Only today's time is shown, never earlier days;
   - your gratitude items for a day, **only** if you turned sharing on for
     that entry;
+  - your intention for a day, **only** if you turned sharing on for that
+    entry;
   - your journal and meditation minutes for a day, **only** if you turned
     sharing on for that entry.
 
   They see what you shared for a day only after they've checked in on
   that same day too.
+- **Before you check in**, the app can tell you whether everyone else in
+  your pact has checked in today. It never says who, or anything they
+  wrote.
 - **Your journal text is never shared** with anyone in your pact or with
-  anyone else. The database keeps it apart from the shared data, and
-  nothing ever copies it across.
+  anyone else, and neither is which of the cat's questions you answered.
+  The database keeps them apart from the shared data, and nothing ever
+  copies them across.
 - **Your recap stays on your phone** unless you share it. Your cat's
   recap is worked out on your phone from your own gratitude items. If you
   tap Share, the app makes a picture with your counts and up to three
@@ -153,7 +161,7 @@ others stop seeing everything you had shared with it.
 
 ## Notifications
 
-Acatability doesn't send notifications until you say yes. There are four
+Acatability doesn't send notifications until you say yes. There are five
 kinds:
 
 - **Daily reminders from your cat.** Your phone schedules these itself,
@@ -171,6 +179,15 @@ kinds:
   pact can send you a paw, at most once a day, for example "Maya sent a
   paw". It names the friend and the friend's cat and nothing else, follows
   the same switch and hours, and is also shown on your Pact tab that day.
+- **An evening note about your pact.** If you haven't checked in by the
+  evening and your check-in is what would make today a together day for
+  your pact, you may get one note, for example "Your pact is in". It never
+  names anyone or says what they wrote. It comes between 7pm and 9pm your
+  time, at most once a day, never if you haven't checked in at all in the
+  past week, and it follows the "When a friend checks in" switch. A
+  scheduled job on our server checks once an hour who it applies to. It
+  stores nothing new, apart from a note of the day it was sent, so you
+  never get it twice in one day.
 
 Turn any of them off in the app under **Settings → Reminders**, or turn all of
 them off in **iPhone Settings → Notifications → Acatability**. None of
