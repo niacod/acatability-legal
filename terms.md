@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Acatability Terms of Use
 
-_Last updated: 8 October 2026_
+_Last updated: 17 November 2026_
 
 These terms are an agreement between you and Qurek Limited, a company
 registered in England and Wales, which makes Acatability ("we", "us"). By using the app, you agree to them.
@@ -57,15 +57,13 @@ never need to pay to keep a journal.
 
 ## Free trial
 
-- Every new account gets a **14-day free trial**. It starts when you
-  **create your account**, not when you buy anything. There is one trial
-  per account.
-- During the trial you can start a pact of up to 5 and invite people, the
-  same as a subscriber.
-- You don't need to enter payment details for the trial, and it doesn't
-  turn into a paid subscription on its own.
-- When the trial ends without a purchase, any pact you started pauses (see
-  **Pacts**). Everything you do on your own stays free.
+- The free trial is Apple's **14-day free trial** on the monthly or yearly
+  plan, offered once per Apple ID. It starts when you choose a plan, not
+  when you create your account.
+- You can cancel any time in Apple ID settings. If you don't, Apple charges
+  you for the plan you chose when the trial ends.
+- Solo is free, and joining a pact someone else started is free. Only
+  starting a pact needs a plan.
 
 ## Subscription
 

@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Acatability Privacy Policy
 
-_Last updated: 15 October 2026_
+_Last updated: 17 November 2026_
 
 Acatability is a journaling app you can keep on your own or share in a
 pact with up to four friends. It is made and
@@ -39,7 +39,7 @@ If you have a question, or want to use any of the rights below, email
 | **Email address** | The email Apple or Google gives us. If you sign in with Apple and choose "Hide My Email", this is a private relay address from Apple, not your real one. | Your account login |
 | **User ID** | A random ID that we create for your account, plus the ID that Sign in with Apple or Google uses | To tell your data apart from everyone else's |
 | **Journal entries** | For each day: your journal text, your intention for the day, which of the cat's journal questions you answered, if you chose one, your gratitude items, journal and meditation minutes, and your sharing choices for that day | This is the app |
-| **Settings** | Cat colour, journaling goal, sharing preference, preferred journaling time, and your device's time zone | To set up the app for you and to know when your day starts and ends |
+| **Settings** | Cat colour, journaling goal, which parts your daily check-in shows, sharing preference, preferred journaling time, and your device's time zone | To set up the app for you and to know when your day starts and ends |
 | **Pact membership** | Which pact you're in, who set it up, when you joined, and any invite codes you create or use | To connect you with the others in your pact, and to know who can invite |
 | **Purchase history** | If you buy a subscription or the Founding Pact: the purchase's transaction ID, its type (monthly, yearly or Founding Pact), its status (for example active, expired or refunded), when it expires or was refunded, and whether it was a test purchase. We get this from Apple, never from your card. | To know whether your pact's shared features are on, and how many people you can invite |
 | **Push token** | If you allow notifications: a code Apple gives your device so we can send it a notification, and whether it's a test build | To tell you when a friend in your pact checks in |
@@ -49,6 +49,8 @@ If you have a question, or want to use any of the rights below, email
 | **Together days** | The days your pact's day counted while you were in it. Only yours: it doesn't say who else checked in, or who didn't | So your together gifts stay on your shelf, even after you or a friend leave the pact. Deleted with your account |
 | **Pact news record** | When someone leaves your pact or is removed from it: who it was (their name at the time), who did it, who in the pact was told, and when | So the others hear once that someone left, and nobody is told twice |
 | **Apple sign-in token** | A token from Apple, kept only on our server and never readable by the app | So we can cancel your Sign in with Apple link when you delete your account, as Apple requires |
+| **Coins and streak freezes** | Coins and streak freezes you earn and spend, with the day | To keep your balance somewhere only our server can change |
+| **Feedback you send** | Only if you use **Send feedback**: your message, the face you picked, the app version, your device model (for example "iPhone 16") and which screen you sent it from | So we can read it and fix what you tell us about. Deleted with your account |
 
 We use all of this only to run the app. None of it is used for tracking or
 advertising, sold, or shared with data brokers.
@@ -123,9 +125,15 @@ anyone else, unless the law requires us to.
 
   They see what you shared for a day only after they've checked in on
   that same day too.
-- **Before you check in**, the app can tell you whether everyone else in
-  your pact has checked in today. It never says who, or anything they
-  wrote.
+- **Your pact sees whether you've checked in today, even before they
+  have.** Before you check in, the app can tell you, and show you, which
+  other members of your pact have already checked in today and which
+  haven't yet. This is only ever about *today* — past days still show
+  only to the people they already showed to, under the rule above, and
+  nothing you wrote is part of it.
+- **Everyone in a pact sees who started it.** The paywall already says
+  "1 person pays" and only that person can invite, so every member sees
+  which one of them is the starter.
 - **Your journal text is never shared** with anyone in your pact or with
   anyone else, and neither is which of the cat's questions you answered.
   The database keeps them apart from the shared data, and nothing ever
@@ -189,7 +197,7 @@ kinds:
   stores nothing new, apart from a note of the day it was sent, so you
   never get it twice in one day.
 
-Turn any of them off in the app under **Settings → Reminders**, or turn all of
+Turn any of them off in the app under **Me → Notifications**, or turn all of
 them off in **iPhone Settings → Notifications → Acatability**. None of
 them is used for marketing.
 
@@ -217,6 +225,7 @@ permanently deletes:
 - your invite codes;
 - your push tokens and friend notification record;
 - the paws you sent and received;
+- any feedback you sent;
 - your purchase records (this doesn't cancel an Apple subscription;
   cancel that in iPhone Settings);
 - the Apple sign-in token, after we ask Apple to cancel the link to your
