@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Acatability Privacy Policy
 
-_Last updated: 17 November 2026_
+_Last updated: 18 November 2026_
 
 Acatability is a journaling app you can keep on your own or share in a
 pact with up to four friends. It is made and
@@ -213,7 +213,7 @@ someone leaves.
 
 ## Deleting your account
 
-In the app, go to **Settings → Delete account**. This immediately and
+In the app, go to **Me → Delete account**. This immediately and
 permanently deletes:
 
 - your account and profile;

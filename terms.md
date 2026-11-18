@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Acatability Terms of Use
 
-_Last updated: 17 November 2026_
+_Last updated: 18 November 2026_
 
 These terms are an agreement between you and Qurek Limited, a company
 registered in England and Wales, which makes Acatability ("we", "us"). By using the app, you agree to them.
@@ -23,10 +23,10 @@ the [Privacy Policy](privacy) says they can see.
 
 ## Your account
 
-- You sign in with Apple. Keep your Apple ID secure. Anything done in the
+- You sign in with Apple or Google. Keep that account secure. Anything done in the
   app while you're signed in is treated as done by you.
 - You must be at least 13 years old.
-- You can delete your account at any time in **Settings → Delete
+- You can delete your account at any time in **Me → Delete
   account**.
 
 ## Free on your own
@@ -52,7 +52,7 @@ never need to pay to keep a journal.
   the pact stays theirs. Your subscription takes over the pact only if it
   pauses. We can't cancel a subscription for you; see below for how to.
 - The person who pays can remove someone from the pact. Anyone can leave
-  a pact at any time in **Settings → Leave pact**. Leaving or being
+  a pact at any time in **Pact → Leave pact**. Leaving or being
   removed never deletes your own entries.
 
 ## Free trial
@@ -113,6 +113,10 @@ only so the app can work. We don't use your content for anything else.
 
 Don't use Acatability to harass anyone in your pact or anyone else, to break the
 law, or to try to get into data that isn't yours.
+
+We don't tolerate objectionable or abusive content. Report it in the app
+(**Me → Send feedback**) or at info@qurek.biz and we'll review it within 24
+hours and remove content or accounts that break these terms.
 
 ## The service
 
