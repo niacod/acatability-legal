@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Acatability Privacy Policy
 
-_Last updated: 18 November 2026_
+_Last updated: 23 November 2026_
 
 Acatability is a journaling app you can keep on your own or share in a
 pact with up to four friends. It is made and
@@ -19,7 +19,7 @@ If you have a question, or want to use any of the rights below, email
 ## The short version
 
 - We collect only what the app needs to work. There is no advertising, no
-  tracking, no analytics and no crash-reporting service.
+  tracking, and no analytics or crash-reporting service in the app.
 - Your journal text is private. Nobody in your pact ever sees it.
 - The others in your pact see only your name, your cat, which days you
   checked in, and whatever you choose to share on each entry.
@@ -52,8 +52,10 @@ If you have a question, or want to use any of the rights below, email
 | **Coins and streak freezes** | Coins and streak freezes you earn and spend, with the day | To keep your balance somewhere only our server can change |
 | **Feedback you send** | Only if you use **Send feedback**: your message, the face you picked, the app version, your device model (for example "iPhone 16") and which screen you sent it from | So we can read it and fix what you tell us about. Deleted with your account |
 
-We use all of this only to run the app. None of it is used for tracking or
-advertising, sold, or shared with data brokers.
+We use all of this only to run the app. We also add up totals from it (for
+example, how many people checked in this week) to see if the app is
+helping. Those totals never name anyone and stay with us. None of it is
+used for tracking or advertising, sold, or shared with data brokers.
 
 Your data is linked to your account, because a journal that isn't linked
 to you would be of no use to you.
